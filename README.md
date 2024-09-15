@@ -1,10 +1,10 @@
 # SeminarioMobile-React
 
 ## Equipe 
-* Matheus Lins- Scrum Master
-* Henrique - Gerente de configuração 
-* Elizeu Leoncio - Analista Desenvolvedor 
-* Matheus Silva - Analista de dados e negócio 
+* Matheus Lins- 
+* Henrique Márcio -  
+* Elizeu Leoncio - 
+* Matheus Silva - 
 
 ## Apresentação
 
