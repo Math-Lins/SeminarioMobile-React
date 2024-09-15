@@ -1,4 +1,4 @@
-# SeminarioMobile-React
+# SeminarioMobile-React Native
 
 ## Equipe 
 * Matheus Lins- 
